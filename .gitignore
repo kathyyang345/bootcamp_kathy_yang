@@ -10,3 +10,5 @@ __pycache__/
 .env
 # Ignore OS files
 .DS_Store
+# Ignore bank data (sensitive personal info)
+data/raw/*.csv
