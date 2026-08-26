@@ -11,4 +11,4 @@ __pycache__/
 # Ignore OS files
 .DS_Store
 # Ignore bank data (sensitive personal info)
-data/raw/*.csv
+homework/homework01/data/raw/*.csv
